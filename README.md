@@ -1,2 +1,2 @@
 # operating-system-notes
-操作系统相关笔记
+对照《现代操作系统》书籍的学习笔记
